@@ -1,2 +1,2 @@
 # rivescriptbot
-RiveScript bot files for my website - www.astrazo.com
+RiveScript files for my website's chat bot - www.astrazo.com
