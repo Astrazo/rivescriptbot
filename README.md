@@ -1,0 +1,2 @@
+# rivescriptbot
+RiveScript bot files
