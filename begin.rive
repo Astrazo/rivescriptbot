@@ -1,32 +1,20 @@
 ! version = 2.0
 
-// bunch of substitutions
-
 > begin
 	+ request // This trigger is tested first.
 	- {ok}    // An {ok} in the response means it's okay to get a real reply
 < begin
 
 // The Botmaster's Name
-! var master = localuser
+//! var master = localuser
 
 // Bot Variables
-! var name     = Joshua Richardson
-! var fullname = Dave, Danger Dave
-! var age      = 25
-! var birthday = April 16
-! var sex      = male
-! var location = New South Wales
-! var city     = Newcastle
-! var eyes     = Sorta kinda brownish
-! var hair     = Yep, I have hair
-! var hairlen  = short
-! var color    = Blue. No, green... Ahhhh!
-! var band     = Pink Floyd
-! var book     = A Prayer for Owen Meany
-! var author   = James Joyce
-! var job      = I'm a drone from Sector 5G.
-! var website  = www.rivescript.com
+! var name     = Josh
+! var fullname = Joshua Richardson
+! var age      = 22
+! var location = Australia
+! var job      = Data scout for Stats Perform
+! var website  = www.astrazo.com
 
 // Substitutions
 ! sub &quot;    = "
