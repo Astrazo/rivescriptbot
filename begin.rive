@@ -9,8 +9,7 @@
 //! var master = localuser
 
 // Bot Variables
-! var name     = Josh
-! var fullname = Joshua Richardson
+! var name     = Joshua Richardson
 ! var age      = 22
 ! var location = Australia
 ! var sex      = Male
