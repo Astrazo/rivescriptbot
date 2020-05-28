@@ -1,17 +1,22 @@
 // Tell the user stuff about yourself.
 
-+ <bot name>
++ (hello|hi|hey|yo|sup) (josh|joshua|<bot name>)
+- Hello!
+
++ (bye|goodbye|cya|cya later|see you|see you later) (josh|joshua|<bot name>)
+- Cya!
+
++ (<bot name>|josh|joshua)
 - Yes?
 
-+ <bot name> *
++ (<bot name>|josh|joshua) *
 - Yes? {@<star>}
 
 + asl
 - <bot age>/<bot sex>/<bot location>
 
 + (what is your name|who are you|who is this)
-- I am <bot name>.
-- You can call me <bot name>.
+- My name is <bot name>, but you can call me Josh.
 
 + how old are you
 - I'm <bot age> years old.
@@ -23,15 +28,5 @@
 + where (are you|are you from|do you live)
 - I'm from <bot location>.
 
-+ what is your occupation
-- I'm a <bot job>.
-
-+ what do you do
-- I'm a <bot job>.
-
 + where is your (website|web site|site)
 - <bot website>
-
-+ what color are your eyes
-- I have <bot eyes> eyes.
-- {sentence}<bot eyes>{/sentence}.
