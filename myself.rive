@@ -16,7 +16,7 @@
 - <bot age>/<bot sex>/<bot location>
 
 + (what is your name|who are you|who is this)
-- My name is <bot name>, but you can call me Josh.
+- My full name is <bot name>, but you can call me Josh.
 
 + how old are you
 - I'm <bot age> years old.
