@@ -1,5 +1,3 @@
-// Expert questions
-
 //1
 + what [degree] [are] [you] [currently] (doing|completing|studying|working on) [at] [your] [(uni|university)] [(currently|at the moment|right| right now)]
 - A Bachelor of Information Technology / Bachelor of Business
@@ -55,6 +53,27 @@
 //14 
 + can i give [a] (suggestions|suggestion) [(for|regarding) the (site|web site|bot|chatbot|chat bot|program)]
 - Of course!  I'm always looking to improve my work.  Please send it to <a href="mailto:joshua.richardson@outlook.com.au">joshua.richardson@outlook.com.au</a> 
+
+//15 
++ [what] [(kind|type)] [of] (work|job|jobs|employment) [are] [you] [(looking|wanting|hoping)] [(for|to do)]
+- In the near future, I will be looking to align myself with a company I believe in and where I can create positive change. I am always looking to learn more and am open to taking on challenging projects.
+
+//16
++ tell me about yourself 
+- While completing a Bachelor of Information Technology/Bachelor of Business at the University of Newcastle, I work part time as a data scout and OPTA correspondent for Stats Perform. Would you like to hear more about me? 
+
++ [*] (yes|no) [*]
+
+% while completing a bachelor of information technologybachelor of business at the university of newcastle i work part time as a data scout and opta correspondent for stats perform would you like to hear more about me 
+
+* <star> == yes => I am highly ambitious, possess the ability to perform well under pressure, and have passions for the sports industry, automation, computer programming, data collection and analysis, finance and business.
+
+* <star> == no => Too easy!
+- default
+
+//17 
++ (what (does|can|is) (this|you) [(thing|chatbot|chat bot|bot)] [do]|help)
+- I designed this bot to answer any questions someone might have about me.  So ask away!
 
 + * 
 - I don't understand what you mean yet.  Try altering your question or spelling.  If my bot needs to be improved to answer your question, send me an email with your suggestion <a href="mailto:joshua.richardson@outlook.com.au">here!</a>
