@@ -2,6 +2,12 @@
 
 + (hello|hi|hey|yo|sup|gday|howdy) [(josh|joshua|<bot name>)]
 - Hello!
+- Hi!
+- Hey!
+- Yo!
+- Sup!
+- G'day!
+- Howdy!
 
 + (bye|goodbye|cya|cya later|see you|see you later) [(josh|joshua|<bot name>)]
 - Cya!
