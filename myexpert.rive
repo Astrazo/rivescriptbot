@@ -66,5 +66,13 @@
 + (what (does|can|is) (this|you) [(thing|chatbot|chat bot|bot)] [do]|help)
 - I designed this bot to answer any questions someone might have about me.  So ask away!
 
+//18 
++ + would you (be (interested in|keen in)|like|want) [to] [(do|doing) (more|additional)] [website] [(developing|design|designing|development)] [another] [(more|additional)] [(websites|website)]
+- Of course!  If someone came to me with an idea for a website that I found interesting, I'd love to develop it.
+
+//19
++ how many [(soccer|football)] (games|matches) (do|would) you (cover|work [at]) (every|each|a) week
+- Normally it would be around four games per week.  Sometimes it would be as high as six, or none at all! 
+
 + * 
 - I don't understand what you mean yet.  Try altering your question or spelling.  If my bot needs to be improved to answer your question, send me an email with your suggestion <a href="mailto:joshua.richardson@outlook.com.au">here!</a>
