@@ -1,6 +1,6 @@
 // Tell the user stuff about yourself.
 
-+ (hello|hi|hey|yo|sup|gday|howdy) [(josh|joshua|<bot name>)]
++ (hello|hi|hey|yo|sup|gday|howdy|g'day) [(josh|joshua|<bot name>)]
 - Hello!
 - Hi!
 - Hey!
