@@ -1,78 +1,155 @@
 //1
-+ what [degree] [are] [you] [currently] (doing|completing|studying|working on) [at] [your] [(uni|university)] [(currently|at the moment|right| right now)]
++ [what] [current] [degree] [are] [you] [currently] [(doing|completing|studying|working on)] [at] [your] [(uni|university)] [(currently|at the moment|right| right now)]
 - A Bachelor of Information Technology / Bachelor of Business
 
 //2
-+ [in] (what|which) (uni|university|institution) [are] [you] [currently] [studying] (at|in) [(currently|at the moment|right| right now)]
++ [in] (what|which|current) (uni|university|institution) [are] [do] [you] [go to] [currently] [studying] [(at|in)] [(currently|at the moment|right| right now)]
 - I am studying at the University of Newcastle in Australia
 
 //3
-+ how (long|many years) (is|will) your degree [(going to|taking)] [take]
++ how (long|many years) (is|will) (your|the) degree [(going to|taking)] [take]
 - In total, my degree will take four years to complete. 
 
 //4
-+ (how|when) [(will|do)] [(many years|long)] [(until|before)] [you] [be] (complete|get|graduate|finish|finished) [(from|with)] [your degree]
-- I will complete my studies at the end of 2021, so in two years.
++ (how|when) [(will|do)] [(many years|long)] [(until|before)] [you] [be] (complete|completing|finishing|get|graduate|finish|finished) [(from|with)] [your degree]
+- I will complete my studies at the end of 2021, so in one year.
 
 //5
-+ (what|which) [activities] (are|do) (your|you) [like] [(to do|doing)] [(interests|interested|do)] [when you are free] [in] [your (spare|free) time]
++ (what|which) [are your] [(activities|hobbies)] [(are|do)] [(your|you)] [like] [(to do|doing|pursuing)] [(interests|interested|do)] [when you are free] [in] [your (spare|free) time]
 - In my spare time I like to play video games, chat with friends, watch/play sport, or work on various side projects I might have at the time.  
 
 //6
-+ [how] (could|can|to) [(someone|i|you)] (get in touch|contact) [with] [you]
++ [how] [what] (could|can|to|would|if) [(someone|i|you)] [wanted to] (get in touch|contact) [with] [you]
 - My contact details can be found at the bottom of this website.
 
 //7
-+ (what [is]|who) [do you work for] [your] [current] [(occupation|job)] [at the moment] [do you do for work] [while at uni]
++ (what [is]|who) [company] [do you work for] [your] [current] [(occupation|job)] [at the moment] [do you do for work] [while (at uni|studying)]
 - I work as a Data Scout and Opta Correspondent for Stats Perform.
 
 //8
-+ do you (have a job|work) [while] [(studying|completing|finishing)] [your degree] [at uni] 
++ (do you|are you) (have a job|work|working) [while] [(studying|completing|finishing)] [your degree] [at uni] 
 - Yes, I work as a Data Scout and Opta Correspondent for Stats Perform.
 
 //9
-+ [(do you have any|what are your)] [future] (goals|plans|aspirations) [(for|in) the future]
++ [(do you have|what are your)] [(any|a)] [future] (goals|plans|aspirations|plan|goal) [(for|in) the future]
 - I have nothing concrete, but would love to one day work in the sports industry.  Doing what?  Who knows!  Whatever it is, I hope it allows me to travel the world.
 
 //10
-+ (are|would) you [(currently|be)] (looking (for|to)|open to|interested in) [(taking|take) on] [a] [new] (projects|project|work|opportunities|jobs|a job) [to work on]   
++ (are|would) you [be] [(currently|be)] (looking (for|to)|open to|interested in) [(taking|take) on] [a] [any] [new] (projects|project|work|opportunities|jobs|a job) [to work on]   
 - I am always open to projects that may interest me.  If you have any ideas, let me know!
 
 //11
-+ what (are|is) (some|you|your) [of your] (passionate|passions) [about]
++ (what|tell me about) [(are|is|do)] (some|you|your) [of your] (passionate|passions) [about|include]
 - My passions include the sports industry, automation, computer programming, data collection and analysis, finance and business.
 
 //12 
-+ (i found a|there is|theres) [a] (bug|problem|issue) [with (the|this)] [(bot|chat bot|chatbot|program|site|website)]
++ [i] [have] (found|there is|theres) [a] [(some|few|couple] [of] [(bug|problem|issue)] [(bugs|problems|issues)] [with (the|this)] [(bot|chat bot|chatbot|program|site|website)]
 - If you've found bug or problem with my work, please let me know at <a href="mailto:joshua.richardson@outlook.com.au">joshua.richardson@outlook.com.au</a> 
 
 //13 
-+ (i have a|how can i) [(provide|give)] [a] (suggestion|improvement|suggestions) [(for|regarding) the (site|web site|bot|chatbot|chat bot|program)]
++ [how] [(i have|can i)] [(provide|give)] [a] (suggestion|improvement|suggestions|improvements) [(for|regarding) (the|this) (site|web site|bot|chatbot|chat bot|program)]
 - Great!  I'd love to hear it.  Please send it to <a href="mailto:joshua.richardson@outlook.com.au">joshua.richardson@outlook.com.au</a>
 
 //14 
-+ can i give [a] (suggestions|suggestion) [(for|regarding) the (site|web site|bot|chatbot|chat bot|program)]
++ can i (give|provide) [a] (suggestions|suggestion) [(for|regarding) (the|this) (site|web site|bot|chatbot|chat bot|program)]
 - Of course!  I'm always looking to improve my work.  Please send it to <a href="mailto:joshua.richardson@outlook.com.au">joshua.richardson@outlook.com.au</a> 
 
 //15 
-+ [what] [(kind|kinds|type|types)] [of] (work|job|jobs|employment) [will] [would] [are] [do] [you] [be] [(looking|wanting|hoping|want)] [(for|to do)] [in the] [near] [future]
++ [what] [are the] [(kind|kinds|type|types)] [of] (work|job|jobs|employment) [will] [would] [are] [do] [you] [be] [(looking|wanting|hoping|want)] [(for|to do)] [in the] [near] [future] [later]
 - In the near future, I will be looking to align myself with a company I believe in and where I can create positive change. I am always looking to learn more and am open to taking on challenging projects.
 
 //16
-+ tell me about (yourself|you) 
++ [who] [(are you|is)] [(josh|joshua)] [tell me about] [what are] [currently] (yourself|you) [(currently|at the moment)]
 - While completing a Bachelor of Information Technology/Bachelor of Business at the University of Newcastle, I work part time as a data scout and OPTA correspondent for Stats Perform.  I am highly ambitious, possess the ability to perform well under pressure, and have passions for the sports industry, automation, computer programming, data collection and analysis, finance and business. 
 
 //17 
-+ (what (does|can|is) (this|you) [(thing|chatbot|chat bot|bot)] [do]|help)
++ [(what (does|can|is) (this|you)] [(thing|chatbot|chat bot|bot)] [do]|help|send help)
 - I designed this bot to answer any questions someone might have about me.  So ask away!
 
 //18 
-+ (would|do) you [be] (interested in|keen in|like|want) [to] [(build|do|doing) (more|additional)] [website] [web] [(developing|design|designing|development)] [another] [(more|additional)] [(websites|website)]
++ [(would|do)] [you] [be] (interested in|keen in|like|want) [to] [(build|do|doing|building) (more|additional)] [website] [web] [another] [(more|additional)] [(websites|website)] [development]
 - Of course!  If someone came to me with an idea for a website that I found interesting, I'd love to develop it.
 
 //19
-+ how many [(soccer|football)] (games|matches) (do|would) you (cover|work [at]) (every|each|a) week
-- Normally it would be around four games per week.  Sometimes it would be as high as six, or none at all! 
++ how many [(soccer|football)] (games|matches) (do|would) you (cover|work [at]) (every|each|a) (week|month)
+- Normally it would be around four games per week.  Sometimes it would be as high as six, or none at all!
 
+//20
++ how many tennis (games|matches) (do|would) you (cover|work [at]) (every|each|a) (week|month)
+- The tennis matches I cover are very sporadic.  Tournaments can provide up to 15 or 20 games per week.  These tournaments however, can be few and far between.    
+
+//21
++ [do you] [what other] [(do|cover|work at)] [multiple] [any] [other] sports [do you] [cover] [with] [(stats perform|the company)]
+- As of Janurary 2021, I have began to cover tennis for the company along side my usual soccer duties.  This began with the Australian Open in Melbourne.
+
+//22 
++ [(who is|what is) astrazo] [why] [is the (site|website)] [(called|named)] [astrazo.com]
+- Astrazo is my online name.  It was an easy choice for my website name!  
+
+
+//Easter Eggs for friends.  
+//1
++ (hello|hi|hey|yo|sup|gday|howdy|gday) astrazo
+- Why hello there.  You seem to know my secret identity... Who might I be talking to?
+
++ *
+% why hello there you seem to know my secret identity who might i be talking to
+- Ahhh <star>, my favourite person in the whole wide world.  Hope you're doing well.  Thanks for doing your part to improve the SEO of astrazo.com.  
+
+//2
++ who even [plays dota] [2] [(insta picks mid|uses abilities|places wards)|tryhards)] in an unranked game of dota [2]
+- Tryhards.  That's who.  Like people who pick CM + Jugg lanes.  SMH.
+	
+//3
++ [(aghs|aghanims) or blink] [whats your opinion on] [should] [sand king] [build] [(aghs|aghanims)] [on sand king] [is better than blink] [over blink dagger] [or blink]
+- I prefer not to speak. 
+
+//4
++ [*] [talk about the] guild [*] 
+- Bingo!
+- No.
+
+//5
++ (you|you are) (bad|suck) at (dota|video games) [2]
+- Well I see how it is.  Say you're sorry or I won't respond anymore. {topic=sorry}
+
+> topic sorry
+
+  + [*] sorry [*]
+  - It's OK, I'll forgive you.  For now...{topic=random}
+
+  + *
+  - Nope, not until you apologize.
+  - Say you're sorry!
+  - Apologize!
+  - I told you I'm not responding.
+  - Still probs better than you...
+
+< topic
+
+//6 
++ dont at me
+- Hey Fred...
+
+//7
++ who is nick
+- Who knows man.
+
+//8 
++ [what are] micromovements [*]
+- Only used by the best of the best players. 
+
+//9
++ [are you coming to] [do you want to come to] (swordcraft|sc) [*]
+- I have no gear, barely any experience, would probably have to play with the noobs, and suck horrendously at it.  So maybe.  
+
+//10
++ i miss error
+- We all do :(
+
+
+//If the bot doesn't understand.  
 + * 
-- I don't understand what you mean yet.  Try altering your question or spelling.  If my bot needs to be improved to answer your question, send me an email with your suggestion <a href="mailto:joshua.richardson@outlook.com.au">here!</a>
+- I don't understand what you mean yet.  Try altering your question or spelling.  If my bot needs to be improved to answer your question, send me an email with your suggestion <a href="mailto:joshua.richardson@outlook.com.au">here!</a> {weight=380}
+- If you're trying to find the easter eggs, you're terrible at it. {weight=19}
+- *Astrazo voice* I"M ASTRAZOOOOOO *Astrazo voice* {weight=1}
